@@ -14,32 +14,12 @@
 
 ---
 
-## 💻 Código, café y creatividad
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400">
-</p>
-
----
-
-## 🚀 ¿Qué encontrarás aquí?
-
-- Proyectos personales y colaborativos
-- Experimentos con nuevas tecnologías
-- Código limpio y bien documentado
-- Ideas creativas convertidas en software
-
----
-
 ## 📫 Conecta conmigo
 
-- 💼 [LinkedIn](https://linkedin.com/in/juanmanuelpinto)
-- 🐦 [Twitter](https://twitter.com/)
-- 🌐 [Portfolio](https://tuweb.com)
+- 🌐 [Portfolio](https://juanmanuelpinto.github.io/diweb_2526)
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDhrYnFraXM1YWFiazN3OTU3am15bmhja3Nqb3VvNTVpZW04eGh4MSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/MdA16VIoXKKxNE8Stk/giphy.gif" width="300">
 </p>
