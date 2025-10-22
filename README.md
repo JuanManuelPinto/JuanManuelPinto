@@ -4,11 +4,13 @@
 
 ---
 
-## ⚙️ Lenguajes más usados
+## ⚙️ Lenguajes más usados en mis repos
 
-![Lenguajes](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,c,cpp)
+![Lenguajes](https://skillicons.dev/icons?i=js,python,java,html,css,c,cpp)
 
 ---
+
+## 💻 Vibra programadora
 
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -16,7 +18,10 @@
 
 ![Focus](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
+![Debugging](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+
 ---
 
-![Thanks](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+## 🚀 ¡Gracias por visitar!
 
+![Thanks](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
